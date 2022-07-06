@@ -31,6 +31,7 @@ twitter_username: ks75vl
 github_username:  ks75vl
 
 # Build settings
+remote_theme: just-the-docs/just-the-docs
 theme: just-the-docs
 plugins:
   - jekyll-feed
