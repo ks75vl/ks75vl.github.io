@@ -22,7 +22,7 @@ permalink: /2022/google-ctf-2022-horkos
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View it on GitHub](https://github.com/ks75vl/ks75vl.github.io/blob/main/docs/2022/Google%20CTF%202022%20-%20HORKOS.md){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
